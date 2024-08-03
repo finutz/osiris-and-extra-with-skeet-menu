@@ -1,2 +1,3 @@
 # osiris-and-extra-with-skeet-menu
-if u know how to fix it pls fix it 
+mainly used it for pasting 
+Just update the offsets from memory.cpp
